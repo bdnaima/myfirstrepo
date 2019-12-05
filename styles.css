@@ -23,3 +23,7 @@ h1, h2, p {
 p {
     width: 50%;
 }
+
+li {
+    text-decoration-style: dashed;
+}
